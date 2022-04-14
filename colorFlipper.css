@@ -1,0 +1,37 @@
+#titulo {
+    text-align: center;
+    margin: 200px 180px 20px 200px;
+    font-size: 50px;
+}
+
+span {
+    text-align: center;
+    background-color: dimgray;
+    border-radius: 2px;
+}
+
+#box {
+    text-align: center;
+    font-size: 100px;
+}
+
+#boton {
+    text-align: center;
+    margin: 50px 50px;
+}
+
+input {
+    padding: 15px 30px;
+    font-size: 25px;
+    border-radius: 10px;
+    font-family: 'Georama';    
+    background-color: transparent;
+}
+
+html {
+    font-family: 'Georama';
+}
+
+body {
+    text-align: center;
+}
